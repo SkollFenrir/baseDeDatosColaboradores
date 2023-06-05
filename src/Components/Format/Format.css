@@ -1,0 +1,12 @@
+.formG {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5%;
+    margin: 0.5%;
+    
+}
+
+.label {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
